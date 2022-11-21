@@ -1,0 +1,13 @@
+samples: 
+  YM2: data/YM2/ 
+  OM2: data/OM2/
+
+guppy_bin: ont-guppy/bin
+
+guppy_config: dna_r10.4.1_e8.2_400bps_hac.cfg
+
+reference: resources/Masked_Genome_061021.fa
+
+gtf: resources/061021_RepeatMasker_FishTEDB_combo_w_genes_full.sorted.gtf  
+
+intervals: resources/intervals.bed  
